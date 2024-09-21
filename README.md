@@ -1,13 +1,13 @@
 # Overview
 
-This is a program that uses text art to write hello world. The Purpose of the program is to test the integration of Visual Studio Code, Git Hub, and Python language.
+This is a program that uses text art to write hello world. The Purpose of the program is to use text art for the first time and test the integration of Visual Studio Code, Git Hub, and Python language.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
 * Visual Studio Code
-* Python Python 3.12.3
+* Python 3.12.3
 * GitHub
 
 # Useful Websites
